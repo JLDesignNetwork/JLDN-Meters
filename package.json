@@ -5,8 +5,11 @@
     "contributors": [
         "Jeffgl77"
     ],
-    "dependencies": [
-        "src/script.js",
-        "src/style.css"
-    ]
+    "dependencies": {
+        "0": "src/script.js",
+        "1": "src/style.css"
+    },
+    "scripts": {
+        "preinstall": "npx only-allow pnpm"
+    }
 }

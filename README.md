@@ -1,4 +1,4 @@
-# JLDN Meters v3.0.1
+# JLDN Meters v3.0.2
 
 [![GitHub issues](https://img.shields.io/github/issues/JLDesignNetwork/JLDN-Meters?style=for-the-badge)](https://github.com/JLDesignNetwork/JLDN-Meters/issues)
 [![GitHub forks](https://img.shields.io/github/forks/JLDesignNetwork/JLDN-Meters?style=for-the-badge)](https://github.com/JLDesignNetwork/JLDN-Meters/network)
