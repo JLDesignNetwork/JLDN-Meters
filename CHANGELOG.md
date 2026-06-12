@@ -1,5 +1,8 @@
 # Changelog
 
+## [3.0.3] - 2026-06-12
+### Housekeeping
+- Applied **ANTIGRAVITY.md** and **GOLD_STANDARD.md** standardization blueprints (injected JSDoc versioning into `src/script.js` and `src/style.scss`, overhauled `README.md` badges to `flat-square`, strictly reformatted `package.json` metadata, and untracked agent blueprints).
 
 ## [3.0.2] - 2026-06-11
 - implementation of sass

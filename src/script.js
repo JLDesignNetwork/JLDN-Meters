@@ -1,3 +1,7 @@
+/**
+ * @since 3.0.2
+ * @version 3.0.2
+ */
 $(document).ready(function() {
     var inlineCSS = function(id, attribute, value) {        
         switch(attribute) {

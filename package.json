@@ -1,6 +1,15 @@
 {
-    "name": "jldn_meters",
-    "version": "3.0.2",
+    "name": "jldn/meters",
+    "version": "3.0.3",
+    "description": "Animated layered CSS/HTML progress meters.",
+    "keywords": [
+        "css",
+        "meter",
+        "progress",
+        "bar",
+        "gradient",
+        "animated"
+    ],
     "author": "JL Designs Network <admin@jldn.org>",
     "contributors": [
         "Jeffgl77"

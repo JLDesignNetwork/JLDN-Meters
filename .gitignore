@@ -7,3 +7,7 @@
 .travis.yml
 animatedbars-sample.png
 index.html
+
+# Symlinked Agent Blueprints
+ANTIGRAVITY.md
+GOLD_STANDARD.md

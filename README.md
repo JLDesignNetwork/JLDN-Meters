@@ -1,11 +1,17 @@
-# JLDN Meters v3.0.2
+# JLDN Meters v3.0.3
 
-[![GitHub issues](https://img.shields.io/github/issues/JLDesignNetwork/JLDN-Meters?style=for-the-badge)](https://github.com/JLDesignNetwork/JLDN-Meters/issues)
-[![GitHub forks](https://img.shields.io/github/forks/JLDesignNetwork/JLDN-Meters?style=for-the-badge)](https://github.com/JLDesignNetwork/JLDN-Meters/network)
-[![GitHub stars](https://img.shields.io/github/stars/JLDesignNetwork/JLDN-Meters?style=for-the-badge)](https://github.com/JLDesignNetwork/JLDN-Meters/stargazers)
-[![GitHub license](https://img.shields.io/github/license/JLDesignNetwork/JLDN-Meters?style=for-the-badge)](https://github.com/JLDesignNetwork/JLDN-Meters/blob/master/LICENSE.txt)
-![GitHub repo size](https://img.shields.io/github/repo-size/JLDesignNetwork/JLDN-Meters?style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/JLDesignNetwork/JLDN-Meters/total?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/JLDesignNetwork/JLDN-Meters?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/JLDesignNetwork/JLDN-Meters?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/JLDesignNetwork/JLDN-Meters?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/JLDesignNetwork/JLDN-Meters?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/JLDesignNetwork/JLDN-Meters?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/JLDesignNetwork/JLDN-Meters/total?style=flat-square)
+
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Usage](#usage)
+- [Todo](#todo)
 
 ## Description
 
